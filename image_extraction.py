@@ -1,5 +1,6 @@
 import os
 import tensorflow.compat.v1 as tf
+from waymo_open_dataset import dataset_pb2 as open_dataset
 import numpy as np
 import sys
 import matplotlib.pyplot as plt
